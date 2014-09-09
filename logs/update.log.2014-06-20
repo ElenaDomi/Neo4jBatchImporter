@@ -1,0 +1,115 @@
+2014-06-20 10:21:13,706 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 10:21:14,272 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 10:22:41,188 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 10:22:41,759 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 11:10:57,899 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 11:10:58,587 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 11:11:44,788 - 213095003490060915C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 11:11:44,790 - 213095003490060915B1652828196810200611艾比布·吾守尔201561566.50000006.5000004.60000012012-09-13
+ 2014-06-20 11:12:26,210 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 11:12:26,595 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 11:13:15,060 - 213095003490060915C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 11:13:15,060 - {position=408A, inv_name=艾比布·吾守尔, subconam=, condate=, lerepsign=9, conam=, country=, currency=, conprop=, invtype=, conform=, acconam=, cerno_regno=652828196810200611}
+ 2014-06-20 11:13:15,067 - 213095003490060915B1652828196810200611艾比布·吾守尔201561566.50000006.5000004.60000012012-09-13
+ 2014-06-20 11:13:15,067 - {position=, inv_name=艾比布·吾守尔, subconam=6.500000, condate=2012-09-13, lerepsign=, conam=6.500000, country=156, currency=156, conprop=4.600000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 11:24:00,148 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 11:24:00,622 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 11:24:49,392 - 213095003490060915C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 11:24:49,392 - {position=408A, inv_name=艾比布·吾守尔, subconam=, condate=, lerepsign=9, conam=, country=, currency=, conprop=, invtype=, conform=, acconam=, cerno_regno=652828196810200611}
+ 2014-06-20 11:24:49,393 - 213095003490060915B1652828196810200611艾比布·吾守尔201561566.50000006.5000004.60000012012-09-13
+ 2014-06-20 11:24:49,394 - {position=, inv_name=艾比布·吾守尔, subconam=6.500000, condate=2012-09-13, lerepsign=, conam=6.500000, country=156, currency=156, conprop=4.600000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 11:36:37,063 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 11:36:37,454 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 11:37:19,824 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 11:37:20,377 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 11:38:07,790 - 213095003490060915C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 11:38:07,790 - {position=408A, inv_name=艾比布·吾守尔, subconam=, condate=, lerepsign=9, conam=, country=, currency=, conprop=, invtype=, conform=, acconam=, cerno_regno=652828196810200611}
+ 2014-06-20 11:38:07,794 - 213095003490060915B1652828196810200611艾比布·吾守尔201561566.50000006.5000004.60000012012-09-13
+ 2014-06-20 11:38:07,794 - {position=, inv_name=艾比布·吾守尔, subconam=6.500000, condate=2012-09-13, lerepsign=, conam=6.500000, country=156, currency=156, conprop=4.600000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 11:56:42,725 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 11:56:43,470 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 11:57:28,389 - 213095003717072320B1652828196810200611艾比布·吾守尔201561569.00000009.0000001.80000012012-03-30
+ 2014-06-20 11:57:28,389 - {position=, inv_name=艾比布·吾守尔, subconam=9.000000, condate=2012-03-30, lerepsign=, conam=9.000000, country=156, currency=156, conprop=1.800000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 11:57:43,642 - 213095003626030381C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 11:57:43,642 - {position=408A, inv_name=艾比布·吾守尔, subconam=9.000000, condate=2012-03-30, lerepsign=9, conam=9.000000, country=156, currency=156, conprop=1.800000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 11:57:43,643 - 213095003626030381B1652828196810200611艾比布·吾守尔201561561.20000001.2000000.10000022008-11-11
+ 2014-06-20 11:57:43,644 - {position=, inv_name=艾比布·吾守尔, subconam=1.200000, condate=2008-11-11, lerepsign=, conam=1.200000, country=156, currency=156, conprop=0.100000, invtype=20, conform=2, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 11:57:43,853 - 213095003490060915C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 11:57:43,854 - {position=408A, inv_name=艾比布·吾守尔, subconam=1.200000, condate=2008-11-11, lerepsign=9, conam=1.200000, country=156, currency=156, conprop=0.100000, invtype=20, conform=2, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 11:57:43,854 - 213095003490060915B1652828196810200611艾比布·吾守尔201561566.50000006.5000004.60000012012-09-13
+ 2014-06-20 11:57:43,855 - {position=, inv_name=艾比布·吾守尔, subconam=6.500000, condate=2012-09-13, lerepsign=, conam=6.500000, country=156, currency=156, conprop=4.600000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 12:03:23,173 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 12:03:23,730 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 12:04:11,534 - 213095003717072320B1652828196810200611艾比布·吾守尔201561569.00000009.0000001.80000012012-03-30
+ 2014-06-20 12:04:11,535 - {position=, inv_name=艾比布·吾守尔, subconam=9.000000, condate=2012-03-30, lerepsign=, conam=9.000000, country=156, currency=156, conprop=1.800000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 12:04:29,040 - 213095003626030381C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 12:04:29,040 - {position=408A, inv_name=艾比布·吾守尔, subconam=9.000000, condate=2012-03-30, lerepsign=9, conam=9.000000, country=156, currency=156, conprop=1.800000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 12:04:29,041 - 213095003626030381B1652828196810200611艾比布·吾守尔201561561.20000001.2000000.10000022008-11-11
+ 2014-06-20 12:04:29,041 - {position=, inv_name=艾比布·吾守尔, subconam=1.200000, condate=2008-11-11, lerepsign=, conam=1.200000, country=156, currency=156, conprop=0.100000, invtype=20, conform=2, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 12:04:29,289 - 213095003490060915C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 12:04:29,289 - {position=408A, inv_name=艾比布·吾守尔, subconam=1.200000, condate=2008-11-11, lerepsign=9, conam=1.200000, country=156, currency=156, conprop=0.100000, invtype=20, conform=2, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 12:04:29,290 - 213095003490060915B1652828196810200611艾比布·吾守尔201561566.50000006.5000004.60000012012-09-13
+ 2014-06-20 12:04:29,290 - {position=, inv_name=艾比布·吾守尔, subconam=6.500000, condate=2012-09-13, lerepsign=, conam=6.500000, country=156, currency=156, conprop=4.600000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 12:10:23,593 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 12:10:24,159 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 12:10:24,656 - 717072320650000-6528280000154222A1和硕县玉素甫江农机服务农民专业合作社652828NA000081X910081902012-03-302012-09-251500.000000500.000000310
+ 2014-06-20 12:10:44,578 - {enttype=9100, ppripid=, inv_name=和硕县玉素甫江农机服务农民专业合作社, esdate=2012-03-30, apprdate=2012-09-25, regno=652828NA000081X, congrocur=, regcapcur=, node_type=A1, empnum=31, pregno=, industryco=8190, country =, node=650000-6528280000154222, reccap=500.000000, oriregno=, congro=0, sconform=, regcap=500.000000, entstatus=1}
+ 2014-06-20 12:11:27,570 - 626030381650000-6528280000004198A1和硕县危须养殖专业合作社652828NA000010X910003192008-11-112011-12-2011011.5250001011.5250001110
+ 2014-06-20 12:11:27,570 - {enttype=9100, ppripid=, inv_name=和硕县危须养殖专业合作社, esdate=2008-11-11, apprdate=2011-12-20, regno=652828NA000010X, congrocur=, regcapcur=, node_type=A1, empnum=111, pregno=, industryco=0319, country =, node=650000-6528280000004198, reccap=1011.525000, oriregno=, congro=0, sconform=, regcap=1011.525000, entstatus=1}
+ 2014-06-20 12:11:27,803 - 490060915650000-6528280000249821A1和硕县乌沙珂伯克葡萄种植农民专业合作社652828NA000100X910001522012-09-142013-05-291141.400000141.400000230
+ 2014-06-20 12:11:27,803 - {enttype=9100, ppripid=, inv_name=和硕县乌沙珂伯克葡萄种植农民专业合作社, esdate=2012-09-14, apprdate=2013-05-29, regno=652828NA000100X, congrocur=, regcapcur=, node_type=A1, empnum=23, pregno=, industryco=0152, country =, node=650000-6528280000249821, reccap=141.400000, oriregno=, congro=0, sconform=, regcap=141.400000, entstatus=1}
+ 2014-06-20 12:11:28,322 - 213095003652828196810200611-艾比布·吾守尔B1C1艾比布·吾守尔652828196810200611652828196810200611\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N
+ 2014-06-20 12:11:28,322 - {enttype=\N, ppripid=\N, inv_name=艾比布·吾守尔, esdate=\N, apprdate=\N, regno=652828196810200611, congrocur=\N, regcapcur=\N, node_type=B1C1, empnum=\N, pregno=\N, industryco=\N, country =\N, node=652828196810200611-艾比布·吾守尔, reccap=\N, oriregno=652828196810200611, congro=\N, sconform=\N, regcap=\N, entstatus=\N}
+ 2014-06-20 12:11:30,414 - 213095003717072320B1652828196810200611艾比布·吾守尔201561569.00000009.0000001.80000012012-03-30
+ 2014-06-20 12:11:30,414 - {position=, inv_name=艾比布·吾守尔, subconam=9.000000, condate=2012-03-30, lerepsign=, conam=9.000000, country=156, currency=156, conprop=1.800000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 12:11:46,204 - 213095003626030381C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 12:11:46,204 - {position=408A, inv_name=艾比布·吾守尔, subconam=9.000000, condate=2012-03-30, lerepsign=9, conam=9.000000, country=156, currency=156, conprop=1.800000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 12:11:46,205 - 213095003626030381B1652828196810200611艾比布·吾守尔201561561.20000001.2000000.10000022008-11-11
+ 2014-06-20 12:11:46,205 - {position=, inv_name=艾比布·吾守尔, subconam=1.200000, condate=2008-11-11, lerepsign=, conam=1.200000, country=156, currency=156, conprop=0.100000, invtype=20, conform=2, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 12:11:46,391 - 213095003490060915C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 12:11:46,391 - {position=408A, inv_name=艾比布·吾守尔, subconam=1.200000, condate=2008-11-11, lerepsign=9, conam=1.200000, country=156, currency=156, conprop=0.100000, invtype=20, conform=2, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 12:11:46,392 - 213095003490060915B1652828196810200611艾比布·吾守尔201561566.50000006.5000004.60000012012-09-13
+ 2014-06-20 12:11:46,393 - {position=, inv_name=艾比布·吾守尔, subconam=6.500000, condate=2012-09-13, lerepsign=, conam=6.500000, country=156, currency=156, conprop=4.600000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 13:30:57,034 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 13:30:57,663 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 13:30:58,195 - 717072320650000-6528280000154222A1和硕县玉素甫江农机服务农民专业合作社652828NA000081X910081902012-03-302012-09-251500.000000500.000000310
+ 2014-06-20 13:30:58,195 - {enttype=9100, ppripid=, inv_name=和硕县玉素甫江农机服务农民专业合作社, esdate=2012-03-30, apprdate=2012-09-25, regno=652828NA000081X, congrocur=, regcapcur=, node_type=A1, empnum=31, pregno=, industryco=8190, country =, node=650000-6528280000154222, reccap=500.000000, oriregno=, congro=0, sconform=, regcap=500.000000, entstatus=1}
+ 2014-06-20 13:31:54,134 - 626030381650000-6528280000004198A1和硕县危须养殖专业合作社652828NA000010X910003192008-11-112011-12-2011011.5250001011.5250001110
+ 2014-06-20 13:31:54,135 - {enttype=9100, ppripid=, inv_name=和硕县危须养殖专业合作社, esdate=2008-11-11, apprdate=2011-12-20, regno=652828NA000010X, congrocur=, regcapcur=, node_type=A1, empnum=111, pregno=, industryco=0319, country =, node=650000-6528280000004198, reccap=1011.525000, oriregno=, congro=0, sconform=, regcap=1011.525000, entstatus=1}
+ 2014-06-20 13:31:54,464 - 490060915650000-6528280000249821A1和硕县乌沙珂伯克葡萄种植农民专业合作社652828NA000100X910001522012-09-142013-05-291141.400000141.400000230
+ 2014-06-20 13:31:54,465 - {enttype=9100, ppripid=, inv_name=和硕县乌沙珂伯克葡萄种植农民专业合作社, esdate=2012-09-14, apprdate=2013-05-29, regno=652828NA000100X, congrocur=, regcapcur=, node_type=A1, empnum=23, pregno=, industryco=0152, country =, node=650000-6528280000249821, reccap=141.400000, oriregno=, congro=0, sconform=, regcap=141.400000, entstatus=1}
+ 2014-06-20 13:31:55,231 - 213095003652828196810200611-艾比布·吾守尔B1C1艾比布·吾守尔652828196810200611652828196810200611\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N
+ 2014-06-20 13:31:55,231 - {enttype=\N, ppripid=\N, inv_name=艾比布·吾守尔, esdate=\N, apprdate=\N, regno=652828196810200611, congrocur=\N, regcapcur=\N, node_type=B1C1, empnum=\N, pregno=\N, industryco=\N, country =\N, node=652828196810200611-艾比布·吾守尔, reccap=\N, oriregno=652828196810200611, congro=\N, sconform=\N, regcap=\N, entstatus=\N}
+ 2014-06-20 13:31:58,177 - 213095003717072320B1652828196810200611艾比布·吾守尔201561569.00000009.0000001.80000012012-03-30
+ 2014-06-20 13:31:58,177 - {position=, inv_name=艾比布·吾守尔, subconam=9.000000, condate=2012-03-30, lerepsign=, conam=9.000000, country=156, currency=156, conprop=1.800000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 13:32:20,666 - 213095003626030381C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 13:32:20,666 - {position=408A, inv_name=艾比布·吾守尔, subconam=, condate=, lerepsign=9, conam=, country=, currency=, conprop=, invtype=, conform=, acconam=, cerno_regno=652828196810200611}
+ 2014-06-20 13:32:20,667 - 213095003626030381B1652828196810200611艾比布·吾守尔201561561.20000001.2000000.10000022008-11-11
+ 2014-06-20 13:32:20,668 - {position=, inv_name=艾比布·吾守尔, subconam=1.200000, condate=2008-11-11, lerepsign=, conam=1.200000, country=156, currency=156, conprop=0.100000, invtype=20, conform=2, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 13:32:20,966 - 213095003490060915C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 13:32:20,967 - {position=408A, inv_name=艾比布·吾守尔, subconam=, condate=, lerepsign=9, conam=, country=, currency=, conprop=, invtype=, conform=, acconam=, cerno_regno=652828196810200611}
+ 2014-06-20 13:32:20,967 - 213095003490060915B1652828196810200611艾比布·吾守尔201561566.50000006.5000004.60000012012-09-13
+ 2014-06-20 13:32:20,968 - {position=, inv_name=艾比布·吾守尔, subconam=6.500000, condate=2012-09-13, lerepsign=, conam=6.500000, country=156, currency=156, conprop=4.600000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 13:40:54,876 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 13:40:55,509 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-06-20 13:40:56,032 - 717072320650000-6528280000154222A1和硕县玉素甫江农机服务农民专业合作社652828NA000081X910081902012-03-302012-09-251500.000000500.000000310
+ 2014-06-20 13:40:56,032 - {enttype=9100, ppripid=, inv_name=和硕县玉素甫江农机服务农民专业合作社, esdate=2012-03-30, apprdate=2012-09-25, regno=652828NA000081X, congrocur=, regcapcur=, node_type=A1, empnum=31, pregno=, industryco=8190, country =, node=650000-6528280000154222, reccap=500.000000, oriregno=, congro=0, sconform=, regcap=500.000000, entstatus=1}
+ 2014-06-20 13:41:44,487 - 626030381650000-6528280000004198A1和硕县危须养殖专业合作社652828NA000010X910003192008-11-112011-12-2011011.5250001011.5250001110
+ 2014-06-20 13:41:44,487 - {enttype=9100, ppripid=, inv_name=和硕县危须养殖专业合作社, esdate=2008-11-11, apprdate=2011-12-20, regno=652828NA000010X, congrocur=, regcapcur=, node_type=A1, empnum=111, pregno=, industryco=0319, country =, node=650000-6528280000004198, reccap=1011.525000, oriregno=, congro=0, sconform=, regcap=1011.525000, entstatus=1}
+ 2014-06-20 13:41:44,815 - 490060915650000-6528280000249821A1和硕县乌沙珂伯克葡萄种植农民专业合作社652828NA000100X910001522012-09-142013-05-291141.400000141.400000230
+ 2014-06-20 13:41:44,816 - {enttype=9100, ppripid=, inv_name=和硕县乌沙珂伯克葡萄种植农民专业合作社, esdate=2012-09-14, apprdate=2013-05-29, regno=652828NA000100X, congrocur=, regcapcur=, node_type=A1, empnum=23, pregno=, industryco=0152, country =, node=650000-6528280000249821, reccap=141.400000, oriregno=, congro=0, sconform=, regcap=141.400000, entstatus=1}
+ 2014-06-20 13:41:45,541 - 213095003652828196810200611-艾比布·吾守尔B1C1艾比布·吾守尔652828196810200611652828196810200611\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N
+ 2014-06-20 13:41:45,542 - {enttype=, ppripid=, inv_name=艾比布·吾守尔, esdate=, apprdate=, regno=652828196810200611, congrocur=, regcapcur=, node_type=B1C1, empnum=, pregno=, industryco=, country =, node=652828196810200611-艾比布·吾守尔, reccap=, oriregno=652828196810200611, congro=, sconform=, regcap=, entstatus=}
+ 2014-06-20 13:41:48,467 - 213095003717072320B1652828196810200611艾比布·吾守尔201561569.00000009.0000001.80000012012-03-30
+ 2014-06-20 13:41:48,467 - {position=, inv_name=艾比布·吾守尔, subconam=9.000000, condate=2012-03-30, lerepsign=, conam=9.000000, country=156, currency=156, conprop=1.800000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 13:42:11,929 - 213095003626030381C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 13:42:11,929 - {position=408A, inv_name=艾比布·吾守尔, subconam=, condate=, lerepsign=9, conam=, country=, currency=, conprop=, invtype=, conform=, acconam=, cerno_regno=652828196810200611}
+ 2014-06-20 13:42:11,930 - 213095003626030381B1652828196810200611艾比布·吾守尔201561561.20000001.2000000.10000022008-11-11
+ 2014-06-20 13:42:11,931 - {position=, inv_name=艾比布·吾守尔, subconam=1.200000, condate=2008-11-11, lerepsign=, conam=1.200000, country=156, currency=156, conprop=0.100000, invtype=20, conform=2, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 13:42:12,253 - 213095003490060915C1652828196810200611艾比布·吾守尔408A9
+ 2014-06-20 13:42:12,253 - {position=408A, inv_name=艾比布·吾守尔, subconam=, condate=, lerepsign=9, conam=, country=, currency=, conprop=, invtype=, conform=, acconam=, cerno_regno=652828196810200611}
+ 2014-06-20 13:42:12,254 - 213095003490060915B1652828196810200611艾比布·吾守尔201561566.50000006.5000004.60000012012-09-13
+ 2014-06-20 13:42:12,254 - {position=, inv_name=艾比布·吾守尔, subconam=6.500000, condate=2012-09-13, lerepsign=, conam=6.500000, country=156, currency=156, conprop=4.600000, invtype=20, conform=1, acconam=0, cerno_regno=652828196810200611}
+ 2014-06-20 14:38:16,789 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-06-20 14:38:17,474 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 

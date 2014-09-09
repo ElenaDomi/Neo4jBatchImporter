@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Licensed to the Apache Software Foundation (ASF) under one or more       -->
+<!-- contributor license agreements.  See the NOTICE file distributed with    -->
+<!-- this work for additional information regarding copyright ownership.      -->
+<!-- The ASF licenses this file to You under the Apache License, Version 2.0  -->
+<!-- (the "License"); you may not use this file except in compliance with     -->
+<!-- the License.  You may obtain a copy of the License at                    -->
+<!--                                                                          -->
+<!--     http://www.apache.org/licenses/LICENSE-2.0                           -->
+<!--                                                                          -->
+<!-- Unless required by applicable law or agreed to in writing, software      -->
+<!-- distributed under the License is distributed on an "AS IS" BASIS,        -->
+<!-- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. -->
+<!-- See the License for the specific language governing permissions and      -->
+<!-- limitations under the License.                                           -->
+
+<configuration>
+
+  <property>
+    <name>dfs.ha.namenodes.ns</name>
+    <value>nn1,nn2</value>
+  </property>
+
+  <property>
+    <name>dfs.namenode.rpc-address.ns.nn1</name>
+    <value>h1:8020</value>
+  </property>
+
+  <property>
+    <name>dfs.namenode.rpc-address.ns.nn2</name>
+    <value>h2:8020</value>
+  </property>
+
+  <property>
+    <name>dfs.namenode.http-address.ns.nn1</name>
+    <value>h1:50070</value>
+  </property>
+
+  <property>
+    <name>dfs.namenode.http-address.ns.nn2</name>
+    <value>h2:50070</value>
+  </property>
+
+  <property>
+    <name>dfs.namenode.shared.edits.dir.ns</name>
+    <value>qjournal://h1:8485;h2:8485;h3:8485/ns</value>
+  </property>
+
+  <property>
+    <name>dfs.client.failover.proxy.provider.ns</name>
+    <value>org.apache.hadoop.hdfs.server.namenode.ha.ConfiguredFailoverProxyProvider</value>
+  </property>
+
+  <property>
+    <name>dfs.hosts.exclude</name>
+    <value>/etc/hdfs1/conf/exclude-list.txt</value>
+  </property>
+  <property>
+    <name>dfs.client.read.shortcircuit</name>
+    <value>true</value>
+  </property>
+  <property>
+    <name>dfs.domain.socket.path</name>
+    <value>/var/run/hdfs1/dn_socket</value>
+  </property>
+
+  <property>
+    <name>dfs.datanode.address</name>
+    <value>0.0.0.0:50010</value>
+  </property>
+
+  <property>
+    <name>dfs.datanode.http.address</name>
+    <value>0.0.0.0:50075</value>
+  </property>
+
+  <property>
+    <name>dfs.datanode.ipc.address</name>
+    <value>0.0.0.0:50020</value>
+  </property>
+
+  <property>
+    <name>dfs.block.local-path-access.user</name>
+    <value>root,hdfs,mapred,hbase,hive</value>
+  </property>
+  <property>
+    <name>dfs.client.socket-timeout</name>
+    <value>120000</value>
+  </property>
+  <property>
+    <name>dfs.datanode.balance.bandwidthPerSec</name>
+    <value>104857600</value>
+  </property>
+  <property>
+    <name>dfs.datanode.data.dir</name>
+    <value>/mnt/disk1/hadoop/data,/mnt/disk2/hadoop/data,/mnt/disk3/hadoop/data,/mnt/disk4/hadoop/data</value>
+  </property>
+  <property>
+    <name>dfs.datanode.data.dir.perm</name>
+    <value>755</value>
+  </property>
+  <property>
+    <name>dfs.datanode.handler.count</name>
+    <value>100</value>
+  </property>
+  <property>
+    <name>dfs.ha.automatic-failover.enabled</name>
+    <value>true</value>
+  </property>
+  <property>
+    <name>dfs.ha.fencing.methods</name>
+    <value>shell(/bin/true)</value>
+  </property>
+  <property>
+    <name>dfs.journalnode.edits.dir</name>
+    <value>/hadoop/journal</value>
+  </property>
+  <property>
+    <name>dfs.namenode.checkpoint.dir</name>
+    <value>/hadoop/namesecondary</value>
+  </property>
+  <property>
+    <name>dfs.namenode.handler.count</name>
+    <value>100</value>
+  </property>
+  <property>
+    <name>dfs.namenode.name.dir</name>
+    <value>/hadoop/hadoop_image,/hadoop/namenode_dir</value>
+  </property>
+  <property>
+    <name>dfs.nameservices</name>
+    <value>ns</value>
+  </property>
+  <property>
+    <name>dfs.support.append</name>
+    <value>true</value>
+  </property>
+  <property>
+    <name>dfs.webhdfs.enabled</name>
+    <value>true</value>
+  </property>
+</configuration>

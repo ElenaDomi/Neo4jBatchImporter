@@ -1,0 +1,9 @@
+2014-04-18 10:54:09,322 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-04-18 10:54:09,852 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-04-18 11:06:42,932 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-04-18 11:06:43,355 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-04-18 11:07:54,404 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-04-18 11:07:54,827 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 2014-04-18 14:35:32,026 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+ 2014-04-18 14:35:32,416 - The short-circuit local reads feature is disabled because UNIX Domain sockets are not available on Windows.
+ 
